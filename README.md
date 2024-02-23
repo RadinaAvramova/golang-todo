@@ -17,7 +17,7 @@ To set up the Golang Todo App:
 
 1. **Clone the Repository:** Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your_username/golang-todo-app.git
+git clone https://github.com/RadinaAvramova/golang-todo.git
 
 2. **Navigate to the Directory:** Change your current directory to the location of the cloned repository:
 
